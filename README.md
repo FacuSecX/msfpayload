@@ -3,18 +3,18 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/bytesalgado"><img title="Autor" src="https://img.shields.io/badge/Author-Facu%20Salgado-blue?style=for-the-badge&logo=github"></a>
-<a href=""><img title="Version" src="https://img.shields.io/badge/Version-1.0-red?style=for-the-badge&logo="></a>
+<a href="https://github.com/FacuSecX"><img title="Autor" src="https://img.shields.io/badge/Author-Facu%20-blue?style=for-the-badge&logo=github"></a>
+<a href=""><img title="Version" src="https://img.shields.io/badge/Version-3.0-red?style=for-the-badge&logo="></a>
 </p>
 
 <p align="center">
 <a href=""><img title="System" src="https://img.shields.io/badge/Supported%20OS-Linux-orange?style=for-the-badge&logo=linux"></a>
-<a href="https://paypal.me/facukaku021"><img title="Paypal" src="https://img.shields.io/badge/Donate-PayPal-green.svg?style=for-the-badge&logo=paypal"></a>
+<a href="https://paypal.me/FacuSecX"><img title="Paypal" src="https://img.shields.io/badge/Donate-PayPal-green.svg?style=for-the-badge&logo=paypal"></a>
 </p>
 
 <p align="center">
-<a href="mailto:facundosalgado017@gmail.com"><img title="Correo" src="https://img.shields.io/badge/Correo-facundosalgado017@gmail.com-blueviolet?style=for-the-badge&logo=gmai"></a>
-<a href="https://t.me/facukaku021"><img title="Chat" src="https://img.shields.io/badge/CHAT-TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
+<a href="mailto:facusex@gmail.com"><img title="Correo" src="https://img.shields.io/badge/Correo-facusecX@gmail.com-blueviolet?style=for-the-badge&logo=gmai"></a>
+<a href="https://t.me/FacuSecX"><img title="Chat" src="https://img.shields.io/badge/CHAT-TELEGRAM-blue?style=for-thjlje-badge&logo=telegram"></a>
 </p>
 
 **MSFPayload** es un framework diseñado que trabaja principalmente con **Metasploit Framework** y **Msfvenom**. Es una herramienta para la creacion de puertas traseras (backdoors) en sistemas objetivos como **Android** y **Windows** incluye una opcion para la evasion del firewall **Windows Defender** en sistemas Windows. y tambien podemos inyectar puertas traseras en APK originales de android. cabe aclarar que no todas las aplicaciones de Android son vulnerables a inyeccion de carga util y en algunos casos no sera posible recompilar la APP a travez de **Apktool**. Sin embargo sigue siendo una herramienta muy util para el pentesting y el testeo de seguridad de sistemas operativos.
@@ -56,5 +56,5 @@
 
 # Creditos:
 
-* Facu Salgado (bytesalgado)
+* Facu(FacuSecX)
 * Regalanos una estrella en el repo, thanks.
